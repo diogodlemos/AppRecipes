@@ -1,0 +1,65 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  /* background-color: rgb(254, 220, 151); */
+  background-image: url('../images/Carvão-vegetal-1.jpg');
+  background-size: 100vw;
+  color: white;
+}
+
+#main-logo {
+  width: 400px;
+  height: 500px;
+  padding: 0%;
+  /* padding-top: 0%; */
+  opacity: none;
+}
+
+#container-main {
+  display: flex;
+  padding: 0%;
+  margin-top: 0%;
+  padding-left: 150px;
+}
+
+.initial-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgb(254, 220, 151); */
+}
+
+#title-main {
+  color: brown;
+  font-size: 50px;
+  margin: 0%;
+  margin-bottom: 40px;
+}
+
+.bonine-brasa {
+  background-color: brown;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 25px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 50px;
+  cursor: pointer;
+}
+
+#abstract {
+  font-size: 30px;
+  color: white;
+}
+
+#show {
+  padding: 150px;
+  margin-top: 100px;
+}
+
+.nav-item {
+  padding: 20px;
+  list-style: none;
+}

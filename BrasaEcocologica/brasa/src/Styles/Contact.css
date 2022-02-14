@@ -1,0 +1,24 @@
+.contact-logo {
+  width: 70px;
+  height: 70px;
+  margin: 20px;
+}
+
+.color-contact {
+  color: white;
+  font-size: 20px;
+}
+
+.link-contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  margin-left: 40%;
+}
+
+.title-contact {
+  margin-left: 40%;
+  color: brown;
+  font-size: 50px;
+}

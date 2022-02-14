@@ -1,0 +1,48 @@
+#logo-header {
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+}
+
+.header-brasa {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.bonine {
+  color: brown;
+  font-size: 40px;
+  margin: 10px;
+  padding: 15px;
+}
+
+.nav-brasa {
+  display: flex;
+  color: brown;
+  justify-content: row;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.nav-brasa :hover {
+  color: chartreuse;
+  cursor: pointer;
+}
+
+#about-brasa {
+  color: white;
+  font-size: 30px;
+}
+
+#container-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin-left: 300px;
+}
