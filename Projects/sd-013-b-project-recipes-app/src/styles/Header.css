@@ -1,0 +1,14 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@350&display=swap');
+
+.header {
+  background-color: rgba(253, 86, 36, 1);
+  color: white;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  justify-content: space-between;
+}
+
+.btn-search {
+  background-color: Transparent;
+  border: none;
+} */

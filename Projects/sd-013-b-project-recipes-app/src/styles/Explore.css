@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.explore-buttons {
+  display: flex;
+  flex-flow: column;
+  height: 80vh;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.explore-food-button, .explore-drinks-button, .explore-meal-ingredient, .explore-meal-area, .meal-surprise-me, .explore-drink-ingredient, .drink-surprise-me {
+  background: url('../images/explore_meals.jpg');
+  background-size: cover;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.54);
+  color: white;
+  font-size: xx-large;
+
+  /* filter: brightness(70%); */
+  height: 200px;
+}
+
+.explore-drinks-button {
+  background: url('../images/explore_drinks.png');
+  background-size: cover;
+}
+
+.explore-meal-ingredient {
+  background: url('../images/explore-meal-ingredient.jpeg');
+  background-size: cover;
+  margin-top: 20px;
+}
+
+.explore-meal-area {
+  background: url('../images//explore-meal-area.jpg');
+  background-size: cover;
+  margin-top: 20px;
+}
+
+.meal-surprise-me {
+  background: url('../images//meal-surprise-me.jpg');
+  background-size: cover;
+  margin-top: 20px;
+}
+
+.explore-drink-ingredient {
+  background: url('../images/explore-drink-ingredient.png');
+  background-size: cover;
+}
+
+.drink-surprise-me {
+  background: url('../images/drink-surprise-me.jpg');
+  background-size: cover;
+}
+
+.explore-button-text, .explore-buttons button {
+  color: white;
+  font-family: Bebas Neue , cursive;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+}
+
+.search-button {
+  background-color: rgb(255, 117, 34);
+  border: none;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.54);
+  color: white;
+  font-size: xx-large;
+  height: 50px;
+}

@@ -1,0 +1,57 @@
+.body-recipe-details {
+  max-width: 360;
+}
+
+.body-recipe-details p {
+  margin: 5px;
+  text-align: justify;
+}
+
+.body-recipe-details h3 {
+  margin-top: 10px;
+}
+
+.image-recipe-details {
+  height: auto;
+  width: 100%;
+}
+
+.recipe-title-card {
+  display: flex;
+  width: 5%;
+}
+
+.recipe-name {
+  margin-right: 50%;
+}
+
+.start-recipe {
+  background-color: var(--secondary_color);
+  border-radius: 5px;
+  border-style: none;
+  color: white;
+  font-size: 25px;
+  margin: 5% 17%;
+  padding: 10px;
+}
+
+.card-recomended {
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  filter: drop-shadow(3px 4px 4px rgba(0, 0, 0, 0.25));
+  height: 100%;
+  justify-content: space-between;
+  margin: 10px;
+  width: 85%;
+}
+
+.carousel-text {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.info-recipes {
+  margin-right: 50px;
+}

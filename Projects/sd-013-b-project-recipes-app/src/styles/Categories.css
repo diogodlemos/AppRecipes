@@ -1,0 +1,21 @@
+.categories-container {
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+}
+
+.categorie-item {
+  background-color: rgb(255, 117, 34);
+  border-radius: 5px;
+  color: white;
+  margin: 3px;
+  padding: 1%;
+  text-align: center;
+  width: 28%;
+}
+
+input[type=radio] {
+  opacity: 0;
+}

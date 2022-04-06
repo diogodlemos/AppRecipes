@@ -1,0 +1,28 @@
+.search-recipes-card {
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  filter: drop-shadow(3px 4px 4px rgba(0, 0, 0, 0.25));
+  height: 102px;
+  justify-content: space-between;
+  margin: 10px;
+  width: 85%;
+}
+
+.img-recipes-card {
+  border-radius: 5px;
+  height: 102px;
+  left: 13px;
+  top: 182px;
+  width: 110px;
+}
+
+.recipes-card-name {
+  margin-right: 29%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
